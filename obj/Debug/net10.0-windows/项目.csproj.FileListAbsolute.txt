@@ -1,0 +1,17 @@
+F:\脚本练习\学习资料（win form）\项目\项目\bin\Debug\net10.0-windows\项目.exe
+F:\脚本练习\学习资料（win form）\项目\项目\bin\Debug\net10.0-windows\项目.deps.json
+F:\脚本练习\学习资料（win form）\项目\项目\bin\Debug\net10.0-windows\项目.runtimeconfig.json
+F:\脚本练习\学习资料（win form）\项目\项目\bin\Debug\net10.0-windows\项目.dll
+F:\脚本练习\学习资料（win form）\项目\项目\bin\Debug\net10.0-windows\项目.pdb
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.Form1.resources
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.csproj.GenerateResource.cache
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.GeneratedMSBuildEditorConfig.editorconfig
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.AssemblyInfoInputs.cache
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.AssemblyInfo.cs
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.csproj.CoreCompileInputs.cache
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.dll
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\refint\项目.dll
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.pdb
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.genruntimeconfig.cache
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\ref\项目.dll
+F:\脚本练习\学习资料（win form）\项目\项目\obj\Debug\net10.0-windows\项目.sourcelink.json
