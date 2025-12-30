@@ -65,19 +65,6 @@ namespace 项目
 
 
         
-        private void ShowForm(Func<Control> createControl)
-        {
-            panel1.SuspendLayout();
-            panel1.Controls.Clear();
-
-            // 创建新的控件实例
-            Control formControl = createControl();
-
-            // 设置控件属性
-            formControl.Dock = DockStyle.Fill;
-            panel1.Controls.Add(formControl);
-            panel1.ResumeLayout();
-        }
     } 
 }
 
