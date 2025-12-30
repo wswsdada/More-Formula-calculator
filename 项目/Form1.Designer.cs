@@ -38,7 +38,6 @@
             label4 = new Label();
             label5 = new Label();
             panel1 = new Panel();
-            button4 = new Button();
             panel2 = new Panel();
             button3 = new Button();
             button2 = new Button();
@@ -98,7 +97,6 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(64, 23);
             textBox2.TabIndex = 5;
-         
             // 
             // textBox3
             // 
@@ -127,7 +125,6 @@
             // 
             // panel1
             // 
-            panel1.Controls.Add(button4);
             panel1.Controls.Add(panel2);
             panel1.Controls.Add(button2);
             panel1.Dock = DockStyle.Left;
@@ -135,16 +132,6 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(121, 358);
             panel1.TabIndex = 9;
-            // 
-            // button4
-            // 
-            button4.Location = new Point(23, 128);
-            button4.Name = "button4";
-            button4.Size = new Size(75, 23);
-            button4.TabIndex = 2;
-            button4.Text = "button4";
-            button4.UseVisualStyleBackColor = true;
-         
             // 
             // panel2
             // 
@@ -227,6 +214,5 @@
         private Button button3;
         private Button button2;
         private Panel panel3;
-        private Button button4;
     }
 }
